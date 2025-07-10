@@ -28,7 +28,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tonmoy-7/output/main/snake.svg" alt="Snake animation" />
+<!-- ✅ Snake animation -->
+<img src="https://raw.githubusercontent.com/Tonmoy-7/Tonmoy-7/main/dist/snake.svg" alt="Snake animation" />
 
 ###
 
